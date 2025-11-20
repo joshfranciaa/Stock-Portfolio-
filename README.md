@@ -6,7 +6,7 @@ A C++ program that simulates stock orders, users, and firm portfolios using OOP 
 ## 🎥 Demo Video  
 Click below to watch the project demo:
 
-[▶️ **Watch Demo Video**](Stock%20Portfolio%20Test.mp4)
+[▶️ **Watch Demo Video**](https://github.com/joshfranciaa/Stock-Portfolio-/raw/refs/heads/main/Stock%20Portfolio%20Test%20.mov)
 
 ---
 
